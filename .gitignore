@@ -1,0 +1,19 @@
+
+# Compiled class file
+*.class
+
+#Intellij
+.idea/
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+gradle/wrapper/gradle-wrapper.jar
+
+#Build
+build/*
+out/
+
+#Logs
+logs/
